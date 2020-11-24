@@ -1,0 +1,9 @@
+{
+  "name": "hexo-generate-json",
+  "version": "1.0.0",
+  "description": "generate json content including pagination and post-detail",
+  "main": "index.js",
+  "repository": "https://github.com/kricsleo/hexo-generate-json.git",
+  "author": "kricsleo",
+  "license": "MIT"
+}
